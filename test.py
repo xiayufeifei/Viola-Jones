@@ -47,3 +47,4 @@ if __name__ == '__main__':
         # saveNegativeResult(nonfaceImages, yPredN, FPOutput, TNOutput, (1-f)/f)
         
     print('Detection rate: %f; False positive rate: %f' % (d, f))
+    print('test')
